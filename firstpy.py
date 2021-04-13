@@ -1,2 +1,2 @@
 print("Hello World")
-input()
+input("What is your name? ")
